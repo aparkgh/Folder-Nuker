@@ -1,4 +1,4 @@
-# Folder-Nuker
+# Folder Nuker
 **Folder Nuker** is a simple and fast folder generator, written in Windows Batch, that creates empty folders very quickly.
 
 ## Directions of use
