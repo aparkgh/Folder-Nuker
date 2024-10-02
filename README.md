@@ -2,7 +2,7 @@
 **Folder Nuker** is a simple and fast folder generator, written in Windows Batch, that creates empty folders very quickly.
 
 ## Directions of use
-* Place `nuke.bat` in the directory where you want to create folders and run the file.
+* Place `Folder Nuker.bat` in the directory where you want to create folders and run the file.
 * Press any key as prompted to begin folder creation.
 * Close the Command Prompt window to stop the process once you're done.
 
