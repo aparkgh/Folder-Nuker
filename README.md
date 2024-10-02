@@ -9,7 +9,7 @@
 **Warning:** This script generates folders very quickly and will continue to do so until the Command Prompt window is manually closed. Be cautious and ensure it's run in the correct directory to avoid unintended folder creation.
 
 ## How it works
-An infinite loop containing the folder creation command is rapidly iterated until termination of the program.
+An infinite loop continuously executes the folder creation command until the program is terminated.
 
 An attempt to create a folder with a specific name in a directory that already contains a folder with that name will fail. To minimize the risk of this happening, multiple instances of %random%[^1] were utilised, increasing the general folder name length and reducing the likelihood of a duplicate folder generation attempt- resultantly exponentially increasing the total number of possible folders that can be generated.
 
