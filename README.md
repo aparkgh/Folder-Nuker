@@ -6,7 +6,7 @@
 * Press any key as prompted to begin folder creation.
 * Close the Command Prompt window to stop the process once you're done.
 
-⚠️ **Warning:** This script generates folders very quickly and will continue to do so until the Command Prompt window is manually closed. Be cautious and ensure it's run in the correct directory to avoid unintended folder creation.
+⚠️ **Warning:** This script generates folders very quickly and will continue to do so until the Command Prompt window is manually closed. Be cautious and ensure it's run in the correct directory to avoid unintentional folder creation.
 
 ## How it works
 An infinite loop continuously executes the folder creation command until the program is terminated.
