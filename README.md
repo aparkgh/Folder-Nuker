@@ -7,7 +7,7 @@
 * Close the Command Prompt window to stop the process once you're done.
 
 > [!CAUTION]
-> This script generates folders very quickly and will continue to do so until the Command Prompt window is manually closed. Be cautious and ensure it's run in the correct directory to avoid unintentional folder creation.
+> This script generates folders very quickly and will continue to do so until the Command Prompt window is manually closed. Ensure the program is run in the correct directory to avoid unintentional folder creation.
 
 ## How it works
 An infinite loop continuously executes the folder creation command until the program is terminated.
